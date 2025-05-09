@@ -1,3 +1,7 @@
+# NOTES
+The `electron.exe` within the `electron-app` is too big to add to GitHub; you must download the EXE; the file resides in this archive:
+[electron-v36.2.0-win32-x64.zip](https://github.com/electron/electron/releases/download/v36.2.0/electron-v36.2.0-win32-x64.zip)
+
 # electron-app
 
 ## Developing
