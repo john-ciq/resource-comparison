@@ -1,6 +1,6 @@
 {
-  "name": "squealing-sir-forego-c8ou3",
-  "productName": "squealing-sir-forego-c8ou3",
+  "name": "electron-app",
+  "productName": "electron-app",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
