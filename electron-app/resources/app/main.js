@@ -21,6 +21,17 @@ function createWindow () {
   // Register a handler for the "greet" function
   ipcMain.handle('greet', (_event, name) => `Hello, ${name}!`);
 
+  for (let i = 0; i < 5; i++) {
+    const appWindow = new BrowserWindow({
+      width: 800,
+      height: 600,
+      webPreferences: {
+        //preload: path.join(__dirname, 'preload.js')
+      }
+    });
+    appWindow.loadURL('https://www.google.com');
+  }
+
 }
 
 // This method will be called when Electron has finished

@@ -15,6 +15,41 @@
         "title": "tauri-app",
         "width": 800,
         "height": 600
+      },
+      {
+        "title": "google1",
+        "label": "google1",
+        "url": "https://www.google.com",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "title": "google2",
+        "label": "google2",
+        "url": "https://www.google.com",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "title": "google3",
+        "label": "google3",
+        "url": "https://www.google.com",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "title": "google4",
+        "label": "google4",
+        "url": "https://www.google.com",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "title": "google5",
+        "label": "google5",
+        "url": "https://www.google.com",
+        "width": 800,
+        "height": 600
       }
     ],
     "security": {
