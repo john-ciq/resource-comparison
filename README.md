@@ -18,8 +18,8 @@ Run `electron-app/electron.exe`
 # tauri-app
 
 ## Configuring
-* Install [rust](https://www.rust-lang.org/tools/install)
-* Install [Tauri](https://tauri.app/)
+* Install [rust](https://www.rust-lang.org/tools/install) (1.86.0 is the current version at the time of publish)
+* Install [Tauri](https://tauri.app/) (2.5.0 is the current version at the time of publish)
 
 ## Developing
 Run `yarn tauri dev` within `tauri-app`; edit `tauri-app/src` files in any IDE. Live reload for front-end changes. Backend changes (rust) will reload, but can take a few moments.
