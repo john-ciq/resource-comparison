@@ -4,11 +4,6 @@ fn greet(name: &str) -> String {
     format!("Hello, {}!", name)
 }
 
-#[tauri::command]
-fn san(name: &str) -> String {
-    format!("Hello, {}-san!", name)
-}
-
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
